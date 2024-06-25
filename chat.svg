@@ -301,7 +301,7 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="470" height="42" rx="18.0355" class="bubble" />
+    <rect width="500" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">그리고 SYNC 4기 대상 수상한 <a href="https://github.com/SYNC-Project-CL5">암쏘타이어</a> 도 구경해주세요 !</text>
   </g>
 
