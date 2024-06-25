@@ -54,7 +54,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=gunwoo2&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-<div align=center><h1>🖥️Tech. Stacks🖥️</h1></div>
+<div align=center><h1>🛠️Tech. Stacks🛠️</h1></div>
 
 <div align=center style="background-color: #87CEEB; padding: 10px; border-radius: 10px;">
 
