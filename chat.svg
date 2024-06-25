@@ -300,12 +300,13 @@
   </g>
 
   <!-- Twitter -->
-  <g transform="translate(10, 192)" class="msg-4">
+<g transform="translate(10, 192)" class="msg-4">
     <rect width="500" height="42" rx="18.0355" class="bubble" />
-    <a href="https://github.com/SYNC-Project-CL5" target="_blank">
-        <text x="15" y="27">그리고 SYNC 4기 대상탄 암쏘타이어도 구경해주세요 !</text>
-    </a>
-  </g>
+    <text x="15" y="27" onclick="window.location.href='https://github.com/SYNC-Project-CL5'" style="cursor: pointer; text-decoration: underline; fill: blue;">
+        그리고 SYNC 4기 대상탄 <tspan font-weight="bold">암쏘타이어</tspan> 도 구경해주세요 !
+    </text>
+</g>
+
 
 
   <!-- typing 5 -->
