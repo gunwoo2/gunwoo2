@@ -31,16 +31,15 @@
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="43" style="width: 43px; height: 43px; margin-right: 48px; margin-bottom: 0px;" />
 <br><br> -->
 
-<hr>
+---
 
 ## SYNC 4기 프로젝트 [대상]
 
-## 암쏘타이어. <a href="https://youtu.be/HWOsBlJr9Mk?si=_cRmEfF53j4y4sk9" target="_blank"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube" style="height: 30px;">[![ISOT](https://img.shields.io/badge/ISOT-F77623?style=flat&logo=github&logoColor=black&height:30px)](https://github.com/SYNC-Project-CL5)
-<a href="https://ibb.co/fXfMqJ7"><img src="https://i.ibb.co/bJ69sdn/3.png" alt="3" border="0" style="height: 100px;">
-<br>
+암쏘타이어. [![Youtube](https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube)](https://youtu.be/HWOsBlJr9Mk?si=_cRmEfF53j4y4sk9) [![ISOT](https://img.shields.io/badge/ISOT-F77623?style=flat&logo=github&logoColor=black&height=25)](https://github.com/SYNC-Project-CL5)
 
+[![Image](https://i.ibb.co/bJ69sdn/3.png)](https://ibb.co/fXfMqJ7)
 
-<hr>
+---
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunwoo2&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
