@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDC830,10:F9B94D,30:F89D3B,75:F97C00,100:F77623&height=100&section=header&text=&fontSize=0" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FDC830,10:F9B94D,30:F89D3B,75:F97C00,100:F77623&height=100&section=header&text=GUNWOO%20KIM&fontSize=90&text2=gguakim33%40gmail.com&fontSize2=40)
+
 
 <div align=center>
   <br><br>
