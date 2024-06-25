@@ -77,7 +77,7 @@
   <br>
 
 </div>
-
+<br>
 <div align=right>
   <a href="mailto:gguakim33@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" style="height: 20px;">
@@ -89,8 +89,6 @@
   </a>
 </a>
 </div>   
-
-    
-
+<br>  
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FDC830,10:F9B94D,30:F89D3B,75:F97C00,100:F77623&height=40&section=footer&text=&fontSize=0" width="100%"/>
