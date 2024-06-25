@@ -35,11 +35,10 @@
 ## <a href="https://ibb.co/fXfMqJ7"><img src="https://i.ibb.co/bJ69sdn/3.png" alt="3" border="0" style="height: 25px;"></a> SYNC 4기 프로젝트-암쏘타이어 [대상] [![Youtube](https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube)](https://youtu.be/HWOsBlJr9Mk?si=_cRmEfF53j4y4sk9) [![ISOT](https://img.shields.io/badge/ISOT-F77623?style=flat&logo=github&logoColor=black&height=25)](https://github.com/SYNC-Project-CL5)
 
 
-<center>
+
 |직책, 담당 모듈|대표 ABPA 프로그램|UI5 프로그램|
   |:---:|:---|:---|
   |**Project Manager, SCM<br><br>[![ISOT](https://img.shields.io/badge/ISOT-F77623?style=flat&logo=github&logoColor=black&height=25)](https://github.com/SYNC-Project-CL5)**|⚬ [PP] 생산 계획 생성<br>⚬ [PP] 생산 검수 및 입고<br>⚬ [SD] 출고문서 생성 지시<br>⚬ [MM] 재고 이전|⚬ [B2C] 판매사이트 Portal<br>⚬ [B2C] 직영점 조회(네이버 API)<br>⚬ [B2C] 주문내역 로그인<br>⚬ [B2C] 주문내역 확인<br>⚬ [B2B] 배치 QR 동적 조회<br>⚬ [B2B] 자동화된 배치번호 QR 생성<br>⚬ [B2B] 생산실적 차트조회<br>⚬ [B2B] AI 기반 수요예측 모델 생성기<br>⚬ [B2B] 기계학습(XGBoost) 기반 수요예측<br>|
-</center>center>
 
 <hr>
 
