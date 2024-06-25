@@ -51,8 +51,8 @@
 
 <div align=center style="background-color: #87CEEB; padding: 10px; border-radius: 10px;">
 
-  <img alt="ABAP" src="https://raw.githubusercontent.com/github/explore/339de3fa1bceb3fe3eda8c8220bccc706057203f/topics/abap/abap.png" style="height: 90px; border-radius: 8px; margin-right: 10px;">
-  <img alt="UI5" src="https://raw.githubusercontent.com/SAP/ui5-tooling/main/docs/images/UI5_logo_wide.png" style="height: 70px; border-radius: 8px; margin-right: 10px;">
+  <img alt="ABAP" src="https://raw.githubusercontent.com/github/explore/339de3fa1bceb3fe3eda8c8220bccc706057203f/topics/abap/abap.png" style="height: 50px; border-radius: 8px; margin-right: 10px;">
+  <img alt="UI5" src="https://raw.githubusercontent.com/SAP/ui5-tooling/main/docs/images/UI5_logo_wide.png" style="height: 50px; border-radius: 8px; margin-right: 10px;">
   <br>
   
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="border-radius: 8px; margin-right: 10px;"> 
