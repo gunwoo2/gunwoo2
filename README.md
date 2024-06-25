@@ -14,6 +14,7 @@
 <!-- 메시지 형식의 자기소개 --> 
 ![https://github.com/gunwoo2/gunwoo2/blob/main/chat.svg](https://github.com/gunwoo2/gunwoo2/blob/main/chat.svg)
 
+</div>
 
 ## </a> SYNC 4기 프로젝트-암쏘타이어 [대상] [![Youtube](https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube)](https://youtu.be/HWOsBlJr9Mk?si=_cRmEfF53j4y4sk9) [![ISOT](https://img.shields.io/badge/ISOT-F77623?style=flat&logo=github&logoColor=black&height=25)](https://github.com/SYNC-Project-CL5)
 
