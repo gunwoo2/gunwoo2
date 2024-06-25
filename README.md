@@ -30,7 +30,7 @@
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="43" style="width: 43px; height: 43px;" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="43" style="width: 43px; height: 43px; margin-right: 48px; margin-bottom: 0px;" />
 <br><br> -->
-
+</div>
 ---
 
 ## SYNC 4기 프로젝트 [대상]
@@ -56,6 +56,6 @@
 <a href="https://github.com/soyeon207"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyeon207&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
     
     
-</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FDC830,10:F9B94D,30:F89D3B,75:F97C00,100:F77623&height=40&section=footer&text=&fontSize=0" width="100%"/>
