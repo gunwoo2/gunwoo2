@@ -300,14 +300,12 @@
   </g>
 
   <!-- Twitter -->
-  <g transform="translate(10, 192)" class="msg-4">
-    <rect width="415" height="42" rx="18.0355" class="bubble" />
-    <a href="https://github.com/SYNC-Project-CL5">
+<a href="https://github.com/SYNC-Project-CL5">
   <img src="https://i.ibb.co/bJ69sdn/3.png" alt="3" style="height: 100px;">
 </a>
 
 [암쏘타이어에도 놀러오세요!](https://github.com/SYNC-Project-CL5)
-  </g>
+
 
   <!-- typing 5 -->
   <g transform="translate(10, 240)" class="typing-5">
