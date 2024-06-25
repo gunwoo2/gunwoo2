@@ -327,7 +327,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="340" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="350" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">문의사항이 있으시면 언제든 메일 주시고,</text>
     <text x="15" y="47">오늘도 좋은 하루 보내시길 바랍니다 🤗</text>
   </g>
