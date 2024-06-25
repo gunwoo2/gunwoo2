@@ -32,6 +32,17 @@
 <br><br> -->
 
 <hr>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDC830,10:F9B94D,30:F89D3B,75:F97C00,100:F77623&height=100&section=header&text=&fontSize=0" width="100%"/>
+
+## SYNC 4기 프로젝트 [대상]
+
+## 안녕하세요. 암쏘타이어입니다. <a href="https://youtu.be/HWOsBlJr9Mk?si=_cRmEfF53j4y4sk9" target="_blank"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube" style="height: 30px;">
+
+<a href="https://ibb.co/fXfMqJ7"><img src="https://i.ibb.co/bJ69sdn/3.png" alt="3" border="0" style="height: 100px;">
+<br>
+
+
+<hr>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunwoo2&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
