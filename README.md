@@ -14,29 +14,10 @@
 <!-- 메시지 형식의 자기소개 --> 
 ![https://github.com/gunwoo2/gunwoo2/blob/main/chat.svg](https://github.com/gunwoo2/gunwoo2/blob/main/chat.svg)
 
-<!-- 테크 스택 --> 
-<!-- ### ⚙️ Tech Stack 
-  <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=flat-square&logo=Ruby on Rails&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>
-<br>
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="43" height="43" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="43" style="width: 43px; height: 43px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="43" style="width: 43px; height: 43px;" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="43" style="width: 43px; height: 43px; margin-right: 48px; margin-bottom: 0px;" />
-<br><br> -->
-</div>
+## </a> SYNC 4기 프로젝트-암쏘타이어 [대상] [![Youtube](https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube)](https://youtu.be/HWOsBlJr9Mk?si=_cRmEfF53j4y4sk9) [![ISOT](https://img.shields.io/badge/ISOT-F77623?style=flat&logo=github&logoColor=black&height=25)](https://github.com/SYNC-Project-CL5)
 
-## <a href="https://ibb.co/fXfMqJ7"><img src="https://i.ibb.co/bJ69sdn/3.png" alt="3" border="0" style="height: 25px;"></a> SYNC 4기 프로젝트-암쏘타이어 [대상] [![Youtube](https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube)](https://youtu.be/HWOsBlJr9Mk?si=_cRmEfF53j4y4sk9) [![ISOT](https://img.shields.io/badge/ISOT-F77623?style=flat&logo=github&logoColor=black&height=25)](https://github.com/SYNC-Project-CL5)
-
-
+<a href="https://ibb.co/fXfMqJ7"><img src="https://i.ibb.co/bJ69sdn/3.png" alt="3" border="0" style="height: 100px;">
 
 | 직책, 담당 모듈 | 대표 ABPA 프로그램 | UI5 프로그램 |
 |:-------------:|:-------------------|:------------|
