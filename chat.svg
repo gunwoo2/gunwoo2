@@ -228,7 +228,7 @@
   
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="130" height="42" rx="18.0355" />
-    <text x="15" y="27">안녕하세요 🙋‍♀️</text>
+    <text x="15" y="27">안녕하세요 😉</text>
   </g>
 
   <!-- typing 2 -->
@@ -252,8 +252,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="290" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">서버개발자로 일하고 있는</text>
-    <text x="15" y="50">말린 (박소연) 입니다.</text>
+    <text x="15" y="27">ABAP 공부를 하고 있는</text>
+    <text x="15" y="50"> 김건우입니다.</text>
   </g>
 
   <!-- typing 3 -->
@@ -277,8 +277,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">자바나 스프링을 주로 사용하며</text>
-    <text x="15" y="50">인프라에도 관심이 많습니다 :)</text>
+    <text x="15" y="27">ABAP을 주로 사용하며</text>
+    <text x="15" y="50">서버, 네트워크, 인프라, 보안에도 관심이 많습니다 🖥️</text>
   </g>
 
   <!-- typing 4 -->
@@ -302,7 +302,11 @@
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="415" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"><a href="https://velog.io/@soyeon207">VELOG</a> 에도 놀러오세요 !</text>
+    <a href="https://github.com/SYNC-Project-CL5">
+  <img src="https://i.ibb.co/bJ69sdn/3.png" alt="3" style="height: 100px;">
+</a>
+
+[암쏘타이어에도 놀러오세요!](https://github.com/SYNC-Project-CL5)
   </g>
 
   <!-- typing 5 -->
@@ -326,7 +330,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="350" height="66.13" rx="18.0355" class="bubble" />
-    <text x="15" y="27">앞으로 자주 보는 일이 있으면 좋겠습니다.</text>
-    <text x="15" y="47">좋은 하루 보내세요  <tspan class="emoji">👻</tspan></text>
+    <text x="15" y="27">문의사항이 있으시면 언제든 메일 주시고.</text>
+    <text x="15" y="47">오늘도 좋은 하루 보내시길 바랍니다 🤗<tspan class="emoji">👻</tspan></text>
   </g>
 </svg>
