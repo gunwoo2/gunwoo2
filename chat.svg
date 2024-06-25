@@ -276,7 +276,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">ABAP을 주로 사용하며</text>
     <text x="15" y="50">서버, 네트워크, 인프라, 보안에도 관심이 많습니다 🖥️</text>
   </g>
@@ -301,7 +301,7 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="415" height="42" rx="18.0355" class="bubble" />
+    <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">그리고 SYNC 4기 대상탄 </text>
     <text x="15" y="50"><a href="https://github.com/SYNC-Project-CL5">암쏘타이어</a> 도 구경해주세요 !</text>
   </g>
@@ -327,9 +327,9 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="350" height="66.13" rx="18.0355" class="bubble" />
-    <text x="15" y="27">문의사항이 있으시면 언제든 메일 주시고.</text>
-    <text x="15" y="47">오늘도 좋은 하루 보내시길 바랍니다 🤗<tspan class="emoji">👻</tspan></text>
+    <rect width="500" height="70" rx="18.0355" class="bubble" />
+    <text x="15" y="27">문의사항이 있으시면 언제든 메일 주시고,</text>
+    <text x="15" y="47">오늘도 좋은 하루 보내시길 바랍니다 🤗</text>
   </g>
 
 </svg>
