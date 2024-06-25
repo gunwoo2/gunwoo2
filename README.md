@@ -32,7 +32,7 @@
 <br><br> -->
 </div>
 
-## <a href="https://ibb.co/fXfMqJ7"><img src="https://i.ibb.co/bJ69sdn/3.png" alt="3" border="0" style="height: 30px;"></a> SYNC 4기 프로젝트-암쏘타이어 [대상] [![Youtube](https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube)](https://youtu.be/HWOsBlJr9Mk?si=_cRmEfF53j4y4sk9) [![ISOT](https://img.shields.io/badge/ISOT-F77623?style=flat&logo=github&logoColor=black&height=25)](https://github.com/SYNC-Project-CL5)
+## <a href="https://ibb.co/fXfMqJ7"><img src="https://i.ibb.co/bJ69sdn/3.png" alt="3" border="0" style="height: 20px;"></a> SYNC 4기 프로젝트-암쏘타이어 [대상] [![Youtube](https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube)](https://youtu.be/HWOsBlJr9Mk?si=_cRmEfF53j4y4sk9) [![ISOT](https://img.shields.io/badge/ISOT-F77623?style=flat&logo=github&logoColor=black&height=25)](https://github.com/SYNC-Project-CL5)
 
 
 
