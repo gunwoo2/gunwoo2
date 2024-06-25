@@ -59,7 +59,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="hyperledger" src="https://seekvectorlogo.net/hyperledger-vector-logo-svg" style="height: 30px; background-color: #87CEEB;">
+  <img alt="hyperledger" src="https://seekvectorlogo.net/wp-content/uploads/2019/10/hyperledger-vector-logo.png" style="height: 30px; background-color: #87CEEB;">
   <br>
 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
