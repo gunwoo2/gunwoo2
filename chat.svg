@@ -251,9 +251,9 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="210" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">SAP Module Consultant</text>
-    <text x="15" y="50"> 김건우입니다.</text>
+    <rect width="240" height="70" rx="18" class="bubble" />
+    <text x="20" y="30">SAP Module Consultant</text>
+    <text x="20" y="55">김건우입니다.</text>
   </g>
 
   <!-- typing 3 -->
