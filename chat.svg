@@ -275,10 +275,10 @@
   </g>
 
   <!-- Work ... -->
-  <g transform="translate(10, 120)" class="msg-3">
-    <rect width="440" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="40">현재는 PwC컨설팅에서 근무중이며,</text>
-    <text x="15" y="50">모듈 컨설팅, 인프라, 개발에도 관심이 많습니다 🖥️</text>
+  <g transform="translate(10, 130)" class="msg-3">
+    <rect width="460" height="90" rx="18" class="bubble" />
+    <text x="20" y="40">현재는 PwC컨설팅에서 근무중이며,</text>
+    <text x="20" y="65">모듈 컨설팅, 인프라, 개발에도 관심이 많습니다 🖥️</text>
   </g>
 
   <!-- typing 4 -->
