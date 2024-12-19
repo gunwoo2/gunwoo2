@@ -282,7 +282,7 @@
   </g>
 
   <!-- typing 4 -->
-  <g transform="translate(10, 220)" class="typing-4">
+  <g transform="translate(10, 230)" class="typing-4">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -300,14 +300,14 @@
   </g>
 
   <!-- Twitter -->
-  <g transform="translate(10, 220)" class="msg-4">
+  <g transform="translate(10, 230)" class="msg-4">
     <rect width="500" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">그리고 SYNC 4기 대상 수상한 <a href="https://github.com/SYNC-Project-CL5">암쏘타이어</a> 도 구경해주세요 !</text>
   </g>
 
 
   <!-- typing 5 -->
-  <g transform="translate(10, 270)" class="typing-5">
+  <g transform="translate(10, 280)" class="typing-5">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -325,7 +325,7 @@
   </g>
 
   <!-- Thanks -->
-  <g transform="translate(10, 270)" class="msg-5">
+  <g transform="translate(10, 280)" class="msg-5">
     <rect width="350" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">문의사항이 있으시면 언제든 메일 주시고,</text>
     <text x="15" y="47">오늘도 좋은 하루 보내시길 바랍니다 🤗</text>
